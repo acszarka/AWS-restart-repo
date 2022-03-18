@@ -1,4 +1,4 @@
-# Goanna Restart 
+# Goanna Restart course
 ## This repository contains materials used for Teaching and Learning
 
 ### Setup your own GitHub repo
