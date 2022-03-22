@@ -1,0 +1,121 @@
+#George demo
+# int
+x = 2
+
+# var
+name = "Jim"
+
+# boolean
+choice = True
+
+# float
+tax = 5.7
+
+num = complex(x)
+
+print (num)
+
+
+# printing the value 100
+print(100)
+
+
+print("name ="+name)
+
+# concatunating two strings using +
+print ("x = "+str(x))
+print("Hello welcome to AWS Restart")
+
+# immutable
+print (name)
+print (name[0])
+print (name[1])
+print (name[2])
+print (name[len(name)-1])
+
+# mutable
+x = 2
+print(x)
+x = 100
+print(x)
+
+# ##########
+# converting data
+x = float(2)
+print (x)
+#################
+# concatenaing strings
+print (name + " " +str(choice))
+print(len(name+" "+str(choice)))
+
+##############################
+# variables
+a = 3
+# a+2 and the a=5
+a = a+2
+# devide but can't devide by "0"
+a /=2
+
+b = 2
+
+# addition
+b += 2
+
+# multiplication
+b*=2
+# subtraction
+
+b-= 2
+c = a+b
+c= (a+b)+(a*(a-b))
+print (a)
+print(b)
+print(c)
+
+print (a+b)
+
+# to the power of
+print (c**2)
+print(pow(c,5))
+
+####################
+# operaters
+# BODMAS
+# b = (...)
+# o = ^2
+# d = /
+# m = *
+# a = +
+# s = -
+
+# example
+a = 3
+b = 2
+c = a+2*b-1
+print (c)
+c = (a+2)*(b-1)
+print (c)
+
+####################
+# Exceptions
+# errors that occur at runtime
+# it allows operations to run while logging errors and allows us to debug issue
+try:
+    print (c/0)
+except ZeroDivisionError:
+    print("Error")
+
+##################################
+
+name = "welcome to AWS"
+# print var
+print (name)
+# print var and length seperate lines
+print(len(name))
+print(name,end="--length="+str(len(name))+"\n")
+
+# print var and length on same line
+print(name,end="--length="+str(len(name)))
+print(name+" --length = "+str(len(name)))
+print ("%s --length = %d"%(name,len(name)))
+print("{} -- length = {}".format(name,len(name)))
