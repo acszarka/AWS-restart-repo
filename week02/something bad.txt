@@ -1,23 +1,18 @@
 #!/bin/bash
-
+#this is decimal to binary IP address calculator
 function convip()
 {
     CONV=({0..1}{0..1}{0..1}{0..1}{0..1}{0..1}{0..1}{0..1})
 
-    ip=""
+    ipaddress=""
     for byte in $(echo ${1} | tr "." " "); do
-        ip="${ip}.${CONV[${byte}]}"
+        ipaddress="${ipaddress}.${CONV[${byte}]}"
     done
-    echo "${ip:1}"
+    echo "${ipaddress:1}"
 }
 
-echo "Enter the first ip"
 read ip1
-# echo "Enter the second ip"
-# read ip2
 
 a=$(convip "${ip1}")
-# b=$(convip "${ip2}")
 
 echo "${a}"
-# echo "${b}"

@@ -1,0 +1,19 @@
+#!/bin/bash
+
+filename="Adrian_Batista"
+current_count=$(ls $filename* 2>/dev/null | wc -w )
+num=25
+max=$((current_count+num))
+echo "Existing file count: $current_count"
+echo "Adding $num files"
+
+i=$((current_count+1))
+
+while [ $i -le $max ];
+do
+        touch $filename-$i.txt
+        echo "Adding $filename-$i.txt"
+        ((i++))
+done
+
+echo "========== File creation complete ==========="

@@ -1,0 +1,19 @@
+nb_files=525
+
+highest_number=1
+while true
+do
+	echo "Does file-${highest_number}.txt exist?"
+	if [ -e file-${highest_number}.txt ]
+	then
+		
+		((highest_number++))
+	else
+		echo "...Nah. Let's create new files from here."
+		break
+	fi
+done
+for ((i=highest_number;i<highest_number+nb_files;i++)); do
+    touch file-${i}.txt
+	echo "...file-${i}.txt created"
+done

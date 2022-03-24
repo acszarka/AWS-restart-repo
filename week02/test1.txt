@@ -1,0 +1,26 @@
+#!/bin/bash
+
+
+
+# now=$(date '+%Y%m%d')
+prefix="acszarka"
+echo "creating files"
+echo "prefix=$prefix"
+# echo "now=$now"
+
+num=0
+# do find .(directory) -name (filename).txt  sort -V (numerical order)
+for f in $(find . -name "$prefix*.txt" | sort -V); do 
+# num= echo "$"(loop variable) | cut -d(field seperator) -f2(field 2)
+	num=$(echo "$f" | cut -d . -f2 | cut -d _ -f2) 
+done
+# for _(numerical value at the end of file) in (seq 25) (sequenence of 25 files )
+for _ in $(seq 25 ); do 
+#((num=num+1)) num= value of last number in squence +1
+	((num=num+1)) 
+	file="${prefix}_$num.txt"
+	touch "$file"
+	echo "$file"
+done
+
+echo "did someone say KFC"

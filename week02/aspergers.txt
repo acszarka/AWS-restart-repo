@@ -1,0 +1,1932 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js ">
+	<head id="Head1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://aspergersvic.org.au/BuiltTheme/casefile_advocate.v3.0/358c06b4/styles/combined.css" rel="stylesheet" type="text/css" /><link href="https://aspergersvic.org.au/resources/theme/customStyles.css?t=637593503537630000" rel="stylesheet" type="text/css" /><link href="https://aspergersvic.org.au/resources/theme/user.css?t=637815528510000000" rel="stylesheet" type="text/css" /><link href="//sf.wildapricot.org/WebUI/built7.25.0.19517/scripts/public/react/index-44a7298.css" rel="stylesheet" type="text/css" /><link href="//sf.wildapricot.org/WebUI/built7.25.0.19517/css/shared/ui/shared-ui-compiled.css" rel="stylesheet" type="text/css" /><script type="text/javascript" language="javascript" id="idJavaScriptEnvironment">var bonaPage_BuildVer='7.25.0.19517';
+var bonaPage_AdminBackendUrl = '/admin/';
+var bonaPage_StatRes='https://sf.wildapricot.org/WebUI/';
+var bonaPage_InternalPageType = { isUndefinedPage : false,isWebPage : true,isAdminPage : false,isDialogPage : false,isSystemPage : false,isErrorPage : false,isError404Page : false };
+var bonaPage_PageView = { isAnonymousView : true,isMemberView : false,isAdminView : false };
+var WidgetMode = 0;
+var bonaPage_IsUserAnonymous = true;
+var bonaPage_ThemeVer='358c06b4637815528510000000637593503537630000'; var bonaPage_ThemeId = 'casefile_advocate.v3.0'; var bonaPage_ThemeVersion = '3.0';
+var bonaPage_id='18156'; version_id='';
+if (bonaPage_InternalPageType && (bonaPage_InternalPageType.isSystemPage || bonaPage_InternalPageType.isWebPage) && window.self !== window.top) { var success = true; try { var tmp = top.location.href; if (!tmp) { top.location = self.location; } } catch (err) { try { if (self != top) { top.location = self.location; } } catch (err) { try { if (self != top) { top = self; } success = false; } catch (err) { success = false; } } success = false; } if (!success) { window.onload = function() { document.open('text/html', 'replace'); document.write('<ht'+'ml><he'+'ad></he'+'ad><bo'+'dy><h1>Wrong document context!</h1></bo'+'dy></ht'+'ml>'); document.close(); } } }
+try { function waMetricsGlobalHandler(args) { if (WA.topWindow.waMetricsOuterGlobalHandler && typeof(WA.topWindow.waMetricsOuterGlobalHandler) === 'function') { WA.topWindow.waMetricsOuterGlobalHandler(args); }}} catch(err) {}
+ try { if (parent && parent.BonaPage) parent.BonaPage.implementBonaPage(window); } catch (err) { }
+try { document.write('<style type="text/css"> .WaHideIfJSEnabled, .HideIfJSEnabled { display: none; } </style>'); } catch(err) {}
+var bonaPage_WebPackRootPath = '//sf.wildapricot.org/WebUI/built7.25.0.19517/scripts/public/react/';</script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built7.25.0.19517/scripts/shared/bonapagetop/bonapagetop-compiled.js" id="idBonaPageTop"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built7.25.0.19517/scripts/public/react/index-44a7298.js" id="ReactPublicJs"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built7.25.0.19517/scripts/shared/ui/shared-ui-compiled.js" id="idSharedJs"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built7.25.0.19517/General.js" id=""></script><script type="text/javascript" language="javascript" src="https://aspergersvic.org.au/BuiltTheme/casefile_advocate.v3.0/358c06b4/scripts/combined.js" id=""></script><title>Aspergers Victoria Inc - Who has Aspergers?</title>
+<meta name="Keywords" content="aspergers, high functioning autism, autism, ASD, level 1 autism, level 1 ASD, asd level 1, support group, support groups, peer support, asperger, aspergers training, aspergers awareness, aspergers education, aspergers diagnosis, asd social groups, aspergers social groups, social group, peer support group, children with ASD level 1, children with asd, children with autism, children with aspergers, teens with asd level 1, teens with asd, teens with autism, teens with aspergers, adults with asd level 1, adults with asd, adults with autism, adults with aspergers, women with aspergers, women with autism"/><link rel="stylesheet" href="/resources/theme/nivo-slider.css" type="text/css" media="screen" /> <script src="/resources/theme/jquery.nivo.slider.pack.js" type="text/javascript"></script><link rel="search" type="application/opensearchdescription+xml" title="aspergersvic.org.au" href="/opensearch.ashx" /></head>
+	<body id="PAGEID_18156" class="publicContentView LayoutSecondary">
+<div class="mLayout layoutMain" id="mLayout">
+
+<div class="mobilePanelContainer">
+<div id="id_MobilePanel" data-componentId="MobilePanel" class="WaPlaceHolder WaPlaceHolderMobilePanel" style=""><div style=""><div id="id_jcUGnrw" class="WaGadgetOnly WaGadgetMobilePanel  gadgetStyleNone" style="" data-componentId="jcUGnrw" ><div class="mobilePanel">
+	
+	<div class="mobilePanelButton buttonMenu" title="Menu">Menu</div>
+<div class="mobilePanelButton buttonLogin" title="Log in">Log in</div>
+<div class="menuInner">
+		<ul class="firstLevel">
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/" title="Home"><span>Home</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/who-we-are" title="Our Aims and our Board"><span>Our Aims and our Board</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV-Commitment-to-Child-Safety" title="AV Commitment to Child Safety"><span>AV Commitment to Child Safety</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/About-Aspergers" title="About Aspergers"><span>About Aspergers</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18144" title="Neurodiversity"><span>Neurodiversity</span></a>
+</div>
+</li>
+	
+<li class="sel ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/List-of-possible-Aspergers-people" title="Who has Aspergers?"><span>Who has Aspergers?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Communication-Tips" title="Communication Tips"><span>Communication Tips</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18136" title="The Positives of Aspergers"><span>The Positives of Aspergers</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Sources-of-Aspergersinfo" title="Sources of Aspergers Information"><span>Sources of Aspergers Information</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Disclaimer" title="Disclaimer"><span>Disclaimer</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/What-We-Do" title="What We Do"><span>What We Do</span></a>
+<ul class="secondLevel">
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Groups" title="Peer Support Groups"><span>Peer Support Groups</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/adults-group" title="Adults Group"><span>Adults Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/parents-and-carers-group" title="Parents and Carers Group"><span>Parents and Carers Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/partners-group" title="Partners Group"><span>Partners Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/teens-group" title="Teens Group"><span>Teens Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18200" title="Women&#39;s &amp; Non-Binary Folk Group"><span>Women&#39;s &amp; Non-Binary Folk Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/young-adults" title="Young Adults Group"><span>Young Adults Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/groups-calendar" title="Peer Support Groups Calendar"><span>Peer Support Groups Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV-Groups-Way" title="AV Groups Way"><span>AV Groups Way</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18191" title="Interest Groups"><span>Interest Groups</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV_D&amp;D_Program" title="AV Dungeons &amp; Dragons Program"><span>AV Dungeons &amp; Dragons Program</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AspieLand_Moderated_Minecraft" title="AspieLand Moderated Minecraft"><span>AspieLand Moderated Minecraft</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV_Book_Club" title="AV Book Club"><span>AV Book Club</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/events-groups" title="Events"><span>Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV-Calendar" title="AV Calendar"><span>AV Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/events-tandc" title="Events T&#39;s and C&#39;s"><span>Events T&#39;s and C&#39;s</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Employment" title="Employment Support"><span>Employment Support</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18177" title="AV Coaching Program - Expression of Interest for 2022"><span>AV Coaching Program - Expression of Interest for 2022</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Employment-Opportunities" title="Employment Opportunities"><span>Employment Opportunities</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Where-is-Autism-Employment-heading-2017-Forbes-Article" title="Where is Autism Employment heading 2017 Forbes Article"><span>Where is Autism Employment heading 2017 Forbes Article</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Job-opportunities" title="Job opportunities"><span>Job opportunities</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/The-benefits-of-Aspergers-at-work" title="The benefits of Aspergers at work"><span>The benefits of Aspergers at work</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18150" title="Article: Aspergers in the Neurotypical workplace"><span>Article: Aspergers in the Neurotypical workplace</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Training" title="Training &amp; Education"><span>Training &amp; Education</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Advocacy" title="Advocacy"><span>Advocacy</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/get-help" title="Get Help"><span>Get Help</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/getting-Aspergers-diagnosis" title="Getting an Assessment"><span>Getting an Assessment</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Just-Diagnosed" title="Just Diagnosed?"><span>Just Diagnosed?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Respite-Options" title="Respite Options"><span>Respite Options</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Early-Childhood-support" title="Early Childhood Intervention"><span>Early Childhood Intervention</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18147" title="School Anxiety/Phobia Issues"><span>School Anxiety/Phobia Issues</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/News" title="News"><span>News</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18201" title="AV Calendar - Upcoming Activities"><span>AV Calendar - Upcoming Activities</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18194" title="Get Involved"><span>Get Involved</span></a>
+<ul class="secondLevel">
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Become_an_AV_Member" title="Become an AV Member"><span>Become an AV Member</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV_Membership_Application_Portal" title="AV Membership Application Portal"><span>AV Membership Application Portal</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Volunteer" title="Volunteer at AV"><span>Volunteer at AV</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Donate" title="Donate to AV"><span>Donate to AV</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18172" title="Join the AV Staff Team"><span>Join the AV Staff Team</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Research-Requests" title="Research Requests"><span>Research Requests</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Professional" title="Professionals"><span>Professionals</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/professional-directory" title="Professional Directory"><span>Professional Directory</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Contact" title="Contact"><span>Contact</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Info_Help_Team" title="Info Help Team"><span>Info Help Team</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Mental_health_support_resources" title="Mental health support resources"><span>Mental health support resources</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+</ul>
+	</div>
+
+	<div class="loginInner">
+<div class="loginContainerForm oAuthIsfalse">
+<form method="post" action="https://aspergersvic.org.au/Sys/Login" id="id_jcUGnrw_form" class="generalLoginBox"  data-disableInAdminMode="true">
+<input type="hidden" name="ReturnUrl" id="id_jcUGnrw_returnUrl" value="">
+				<input type="hidden" name="browserData" id="id_jcUGnrw_browserField">
+<div class="loginUserName">
+<div class="loginUserNameTextBox">
+		<input name="email" type="text" maxlength="100" placeholder="Email"  id="id_jcUGnrw_userName" tabindex="1" class="emailTextBoxControl"/>
+	</div>
+</div><div class="loginPassword">
+<div class="loginPasswordTextBox">
+		<input name="password" type="password" placeholder="Password" maxlength="50" id="id_jcUGnrw_password" tabindex="2" class="passwordTextBoxControl" autocomplete="off"/>
+	</div>
+</div><div class="loginActionRememberMe">
+		<input id="id_jcUGnrw_rememberMe" type="checkbox" name="rememberMe" tabindex="3" class="rememberMeCheckboxControl"/>
+		<label for="id_jcUGnrw_rememberMe">Remember me</label>
+	</div>
+<div class="loginPasswordForgot">
+		<a href="https://aspergersvic.org.au/Sys/ResetPasswordRequest">Forgot password</a>
+	</div>
+<div class="loginAction">
+	<input type="submit" name="ctl03$ctl02$loginViewControl$loginControl$Login" value="Log in" id="id_jcUGnrw_loginAction" onclick="if (!browserInfo.clientCookiesEnabled()) {alert('Warning: browser cookies disabled. Please enable them to use this website.'); return false;}" tabindex="4" class="loginButton loginButtonControl"/>
+</div></form></div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+
+jq$(function()
+{
+	var gadget = jq$('#id_jcUGnrw'),
+		menuContainer = gadget.find('.menuInner'),
+		loginContainer = gadget.find('.loginInner');
+
+	gadget.find('.buttonMenu').on("click",function()
+	{
+		menuContainer.toggle();
+		loginContainer.hide();
+		jq$(this).toggleClass('active');
+        jq$('.buttonLogin').removeClass('active');
+		return false;
+	});
+
+	gadget.find('.buttonLogin').on("click",function()
+	{
+		loginContainer.toggle();
+		menuContainer.hide();
+		jq$(this).toggleClass('active');
+        jq$('.buttonMenu').removeClass('active');
+		return false;
+	});
+
+	gadget.find('.mobilePanel').on("click",function(event)
+	{
+        if( !(jq$(event.target).parents('.loginInner').size() || event.target.className == 'loginInner') )
+        {
+            menuContainer.hide();
+            loginContainer.hide();
+            jq$('.buttonLogin').removeClass('active');
+            jq$('.buttonMenu').removeClass('active');
+        }
+
+        event.stopPropagation();
+	});
+
+	jq$('body').on("click",function()
+	{
+		menuContainer.hide();
+		loginContainer.hide();
+		jq$('.buttonLogin').removeClass('active');
+        jq$('.buttonMenu').removeClass('active');
+	});
+
+
+	// login
+	var browserField = document.getElementById('id_jcUGnrw' + '_browserField');
+
+	if (browserField)
+	{
+		browserField.value = browserInfo.getBrowserCapabilitiesData();
+	}
+
+	jq$('#id_jcUGnrw' + '_form').FormValidate();
+	jq$('.WaGadgetMobilePanel form').attr('data-disableInAdminMode', 'false');
+
+});
+
+</script></div></div>
+</div></div>
+
+		<!-- header zone -->
+		<div class="zonePlace zoneHeader1">
+<div id="id_Header" data-componentId="Header" class="WaPlaceHolder WaPlaceHolderHeader" style="background-color:#3F3F3F;"><div style=""><div id="id_6zKbAtO" data-componentId="yczM2hv" class="WaLayoutContainerOnly" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="6zKbAtO_row" class="WaLayoutRow"><td id="id_9q3fJpg" data-componentId="2sKO5IP" class="WaLayoutItem" style="width:50%;"><div id="id_8tJpKjy" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="6wpOGkw" style=""><div style=""><div id="id_eVJ6sGT" class="WaGadgetOnly WaGadgetLoginForm  LoginFormStyle002" style="" data-componentId="hUIhlcg" ><div class="loginContainer alignLeft">
+  <div class="loginContainerInner">
+    <a id="id_eVJ6sGT_loginLink" class="loginLink">Log in</a>
+    <div id="id_eVJ6sGT_loginContainer" class="loginPanel">
+      <div class="loginContainerForm oAuthIsfalse">
+        <div class="loginContainerFormInner">
+          <form method="post" action="https://aspergersvic.org.au/Sys/Login" id="id_eVJ6sGT_form" class="generalLoginBox"  data-disableInAdminMode="true">
+<input type="hidden" name="ReturnUrl" id="id_eVJ6sGT_returnUrl" value="">
+            <input type="hidden" name="CurrentUrl" id="id_eVJ6sGT_currentUrl" value="/List-of-possible-Aspergers-people">
+            <input type="hidden" name="browserData" id="id_eVJ6sGT_browserField">
+            <div class="loginUserName">
+<div class="loginUserNameTextBox">
+		<input name="email" type="text" maxlength="100" placeholder="Email"  id="id_eVJ6sGT_userName" tabindex="1" class="emailTextBoxControl"/>
+	</div>
+</div><div class="loginPassword">
+<div class="loginPasswordTextBox">
+		<input name="password" type="password" placeholder="Password" maxlength="50" id="id_eVJ6sGT_password" tabindex="2" class="passwordTextBoxControl" autocomplete="off"/>
+	</div>
+</div><div class="loginAction">
+	<input type="submit" name="ctl03$ctl02$loginViewControl$loginControl$Login" value="Log in" id="id_eVJ6sGT_loginAction" onclick="if (!WA.isWidgetMode && !browserInfo.clientCookiesEnabled()) {alert('Warning: browser cookies disabled. Please enable them to use this website.'); return false;}" tabindex="4" class="loginButton loginButtonControl"/>
+</div><div class="loginActionRememberMe">
+		<input id="id_eVJ6sGT_rememberMe" type="checkbox" name="rememberMe" tabindex="3" class="rememberMeCheckboxControl"/>
+		<label for="id_eVJ6sGT_rememberMe">Remember me</label>
+	</div>
+<div class="loginPasswordForgot">
+		<a rel="nofollow" href="https://aspergersvic.org.au/Sys/ResetPasswordRequest">Forgot password</a>
+	</div>
+</form></div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  jq$(function() {
+    var gadgetId = jq$('#id_eVJ6sGT'),
+        containerBox = gadgetId.find('.loginPanel'),
+        loginLink = gadgetId.find('.loginLink'),
+        transitionTime = 300;
+
+    containerBox.isOpening = false;
+
+    loginLink.on('click', function(e) {
+      if (containerBox.css("visibility") == 'visible') {
+        loginLink.removeClass('hover');
+        containerBox.animate({ 'opacity': '0' }, transitionTime, function() {
+          containerBox.css('visibility','hidden');
+          containerBox.css('display','none');
+        });
+      } else {
+        loginLink.addClass('hover');
+        containerBox.isOpening = true;
+        containerBox.css('display','block');
+        containerBox.css('visibility','visible');
+        containerBox.animate({ 'opacity': '1' }, transitionTime, function() {
+          containerBox.isOpening = false;
+        });
+      }
+    });
+
+    containerBox.on('click', function(e) { e.stopPropagation(); });
+
+    jq$('body').on('click',function() {
+      if (containerBox.css("visibility") == 'visible' && !containerBox.isOpening) {
+        loginLink.removeClass('hover');
+        containerBox.animate({ 'opacity': '0' }, transitionTime, function() {
+          containerBox.css('visibility','hidden');
+          containerBox.css('display','none');
+        });
+      }
+    });
+
+    var browserField = document.getElementById('id_eVJ6sGT' + '_browserField');
+
+    if (browserField) {
+      browserField.value = browserInfo.getBrowserCapabilitiesData();
+    }
+
+    jq$('#id_eVJ6sGT' + '_form').FormValidate();
+    jq$('.WaGadgetLoginForm form').attr('data-disableInAdminMode', 'false');
+  });
+</script>
+</div></div></div></td><td style="" data-componentId="2sKO5IP_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_fHlqTIU" data-componentId="Zrfbr7x" class="WaLayoutItem" style="width:50%;"><div id="id_2tL577C" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="MhFmH6P" style=""><div style=""><div id="id_3kGgSgb" class="WaGadgetOnly WaGadgetCustomMenu  menuStyle002" style="" data-componentId="AvpRupK" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<ul class="orientationHorizontal alignRight">
+
+<li>
+			<a href="/Become_an_AV_Member" title="Join Us">Join Us</a>
+		</li>
+<li>
+			<a href="/Contact" title="Contact us">Contact us</a>
+		</li>
+</ul>
+
+</div>
+<script type="text/javascript">
+	jq$(function()
+	{
+		var customMenu = jq$('#id_3kGgSgb');
+
+		customMenu.find('ul.orientationHorizontal').parents('.WaGadgetCustomMenu').addClass('customMenuHorizontal');
+		customMenu.find('ul.orientationVertical').parents('.WaGadgetCustomMenu').addClass('customMenuVertical');
+
+		customMenu.find('ul.alignLeft').parents('.WaGadgetCustomMenu').addClass('customMenuAlignLeft');
+		customMenu.find('ul.alignCenter').parents('.WaGadgetCustomMenu').addClass('customMenuAlignCenter');
+		customMenu.find('ul.alignRight').parents('.WaGadgetCustomMenu').addClass('customMenuAlignRight');
+
+		customMenu.find('ul').wrap('<div class="outerContainer"></div>').before('<div class="toggleButton"></div>').wrap('<div class="container"></div>');
+
+		var customMenuWidth = jq$('ul', customMenu).width(),
+			customMenuHeight = jq$('ul', customMenu).height(),
+			transitionTime = 300,
+			animateOptionsToOpen,
+			animateOptionsToClose,
+			layoutType = ( customMenu.hasClass('customMenuHorizontal') ? 'horizontal' : 'vertical' ),
+			menuContainer = customMenu.find('.container');
+
+		customMenu.find('.toggleButton').toggle(function()
+		{
+			$(this).addClass('expandedState');
+			getSize();
+			setTypeAnimation();
+			menuContainer.animate( animateOptionsToOpen, transitionTime );
+		}, function()
+		{
+			$(this).removeClass('expandedState');
+			getSize();
+			setTypeAnimation();
+			menuContainer.animate( animateOptionsToClose, transitionTime );
+		});
+
+
+		function getSize()
+		{
+			customMenuWidth = jq$('ul', customMenu).width();
+			customMenuHeight = jq$('ul', customMenu).height();
+		}
+
+		function setTypeAnimation()
+		{
+			if( layoutType == 'horizontal' )
+			{
+				animateOptionsToOpen = { 'width': (customMenuWidth+'px') };
+				animateOptionsToClose = { 'width': '0' };
+			}
+
+			if( layoutType == 'vertical' )
+			{
+				animateOptionsToOpen = { 'height': (customMenuHeight+'px') };
+				animateOptionsToClose = { 'height': '0' };
+			}
+		}
+	});
+</script>
+
+
+
+
+
+</div></div></div></td></tr></table> </div></div>
+</div></div>
+		<div class="zonePlace zoneHeader2">
+<div id="id_Header1" data-componentId="Header1" class="WaPlaceHolder WaPlaceHolderHeader1" style="min-height:2px;"><div style="padding-top:15px;padding-bottom:15px;"><div id="id_fddQsr5" data-componentId="xc6MKKb" class="WaLayoutContainerFirst" style="border-bottom: 3px solid #a9ce25;margin-bottom:10px;"><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="fddQsr5_row" class="WaLayoutRow"><td id="id_69YfWTQ" data-componentId="IROahCB" class="WaLayoutItem" style="width:60%;"><div id="id_FCrraQa" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="CfmgJhT" style=""><div style="padding-bottom:10px;"><div id="id_CDmDcsr" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="" data-componentId="tQodk3U" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p><img src="/resources/Pictures/AV_RGB_w_text_300dpi_large_clear.png" alt="" title="" border="0" width="300" height="127"><br></p></div>
+</div></div></div></td><td style="" data-componentId="IROahCB_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_vBzoljh" data-componentId="g6LvHl8" class="WaLayoutItem" style="width:40%;"><div id="id_BBCdEiv" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="DdyIoP9" style=""><div style="padding-top:10px;padding-bottom:10px;"><div id="id_oKqJlDI" class="WaGadgetFirst WaGadgetContent header-button gadgetStyleNone" style="" data-componentId="SgSIHEN" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<a href="/Donate" class="stylizedButton buttonStyle003"><font style="font-size: 18px;">Donate Now</font></a></div>
+</div><div id="id_Fb8l2F8" class="WaGadgetLast WaGadgetSiteSearch  searchStyle003" style="" data-componentId="ew5l3Up" ><div class="gadgetStyleBody " style="padding-bottom:10px;padding-left:0px;"  data-areaHeight="auto">
+<div class="searchBoxOuter alignRight">
+		<div class="searchBox">
+<form method="post" action="https://aspergersvic.org.au/Sys/Search" id="id_Fb8l2F8_form" class="generalSearchBox"  data-disableInAdminMode="true">
+<span class="searchBoxFieldContainer">
+				<input class="searchBoxField" type="text" name="searchString" id="idid_Fb8l2F8_searchBox" value="" maxlength="300" autocomplete="off" placeholder="Search website">
+				<a class="searchBoxButton" id="idid_Fb8l2F8_searchButton">Search</a>
+			</span>
+<div class="autoSuggestionBox" id="idid_Fb8l2F8_resultDiv"></div>
+</form></div>
+	</div>
+	<script type="text/javascript">
+		(function(){
+
+			function init()
+			{
+				var model = {};
+				model.gadgetId = 'idid_Fb8l2F8';
+				model.searchBoxId = 'idid_Fb8l2F8_searchBox';
+				model.searchBoxButton = 'idid_Fb8l2F8_searchButton';
+				model.resultDivId = 'idid_Fb8l2F8_resultDiv';
+				model.selectedTypes = '23';
+				model.searchTemplate = 'https://aspergersvic.org.au/Sys/Search?q={0}&types={1}&page={2}';
+				model.searchActionUrl = '/Sys/Search/DoSearch';
+				model.GoToSearchPageTextTemplate = 'Search for &#39;{0}&#39;';
+				model.autoSuggest = true;
+				var WASiteSearch = new WASiteSearchGadget(model);
+			}
+
+			jq$(document).ready(init);
+		}) ();
+	</script>
+</div>
+</div></div></div></td></tr></table> </div><div id="id_6NfRKGL" class="WaGadgetLast WaGadgetMenuHorizontal  HorizontalMenuStyle001" style="" data-componentId="1n6r1DJ" ><div class="stickyMenu">
+	<div class="menuBackground"></div>
+	<div class="menuInner">
+		<ul class="firstLevel">
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/" title="Home"><span>Home</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/who-we-are" title="Our Aims and our Board"><span>Our Aims and our Board</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV-Commitment-to-Child-Safety" title="AV Commitment to Child Safety"><span>AV Commitment to Child Safety</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/About-Aspergers" title="About Aspergers"><span>About Aspergers</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18144" title="Neurodiversity"><span>Neurodiversity</span></a>
+</div>
+</li>
+	
+<li class="sel ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/List-of-possible-Aspergers-people" title="Who has Aspergers?"><span>Who has Aspergers?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Communication-Tips" title="Communication Tips"><span>Communication Tips</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18136" title="The Positives of Aspergers"><span>The Positives of Aspergers</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Sources-of-Aspergersinfo" title="Sources of Aspergers Information"><span>Sources of Aspergers Information</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Disclaimer" title="Disclaimer"><span>Disclaimer</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/What-We-Do" title="What We Do"><span>What We Do</span></a>
+<ul class="secondLevel">
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Groups" title="Peer Support Groups"><span>Peer Support Groups</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/adults-group" title="Adults Group"><span>Adults Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/parents-and-carers-group" title="Parents and Carers Group"><span>Parents and Carers Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/partners-group" title="Partners Group"><span>Partners Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/teens-group" title="Teens Group"><span>Teens Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18200" title="Women&#39;s &amp; Non-Binary Folk Group"><span>Women&#39;s &amp; Non-Binary Folk Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/young-adults" title="Young Adults Group"><span>Young Adults Group</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/groups-calendar" title="Peer Support Groups Calendar"><span>Peer Support Groups Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV-Groups-Way" title="AV Groups Way"><span>AV Groups Way</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18191" title="Interest Groups"><span>Interest Groups</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV_D&amp;D_Program" title="AV Dungeons &amp; Dragons Program"><span>AV Dungeons &amp; Dragons Program</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AspieLand_Moderated_Minecraft" title="AspieLand Moderated Minecraft"><span>AspieLand Moderated Minecraft</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV_Book_Club" title="AV Book Club"><span>AV Book Club</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/events-groups" title="Events"><span>Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV-Calendar" title="AV Calendar"><span>AV Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/events-tandc" title="Events T&#39;s and C&#39;s"><span>Events T&#39;s and C&#39;s</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Employment" title="Employment Support"><span>Employment Support</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18177" title="AV Coaching Program - Expression of Interest for 2022"><span>AV Coaching Program - Expression of Interest for 2022</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Employment-Opportunities" title="Employment Opportunities"><span>Employment Opportunities</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Where-is-Autism-Employment-heading-2017-Forbes-Article" title="Where is Autism Employment heading 2017 Forbes Article"><span>Where is Autism Employment heading 2017 Forbes Article</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Job-opportunities" title="Job opportunities"><span>Job opportunities</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/The-benefits-of-Aspergers-at-work" title="The benefits of Aspergers at work"><span>The benefits of Aspergers at work</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18150" title="Article: Aspergers in the Neurotypical workplace"><span>Article: Aspergers in the Neurotypical workplace</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Training" title="Training &amp; Education"><span>Training &amp; Education</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Advocacy" title="Advocacy"><span>Advocacy</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/get-help" title="Get Help"><span>Get Help</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/getting-Aspergers-diagnosis" title="Getting an Assessment"><span>Getting an Assessment</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Just-Diagnosed" title="Just Diagnosed?"><span>Just Diagnosed?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Respite-Options" title="Respite Options"><span>Respite Options</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Early-Childhood-support" title="Early Childhood Intervention"><span>Early Childhood Intervention</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18147" title="School Anxiety/Phobia Issues"><span>School Anxiety/Phobia Issues</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/News" title="News"><span>News</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18201" title="AV Calendar - Upcoming Activities"><span>AV Calendar - Upcoming Activities</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18194" title="Get Involved"><span>Get Involved</span></a>
+<ul class="secondLevel">
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Become_an_AV_Member" title="Become an AV Member"><span>Become an AV Member</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/AV_Membership_Application_Portal" title="AV Membership Application Portal"><span>AV Membership Application Portal</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Volunteer" title="Volunteer at AV"><span>Volunteer at AV</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Donate" title="Donate to AV"><span>Donate to AV</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18172" title="Join the AV Staff Team"><span>Join the AV Staff Team</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Research-Requests" title="Research Requests"><span>Research Requests</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Professional" title="Professionals"><span>Professionals</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/professional-directory" title="Professional Directory"><span>Professional Directory</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Contact" title="Contact"><span>Contact</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Info_Help_Team" title="Info Help Team"><span>Info Help Team</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Mental_health_support_resources" title="Mental health support resources"><span>Mental health support resources</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+</ul>
+	</div>
+</div>
+
+<script type="text/javascript">
+	jq$(function() {
+		WebFont.load({
+			custom: {
+				families: ['Lato', 'Lato']
+			},
+			active: function(){
+				resizeMenu();
+			}
+		});
+
+		var gadgetHorMenu = jq$('#id_6NfRKGL'),
+			gadgetHorMenuContainer = gadgetHorMenu.find('.menuInner'),
+			firstLevelMenu = gadgetHorMenu.find('ul.firstLevel'),
+			holderInitialMenu = firstLevelMenu.children(),
+			outsideItems = null,
+			phantomElement = '<li class="phantom"><div class="item"><a href="#"><span>&#x2261;</span></a><ul class="secondLevel"></ul></div></li>',
+			placeHolder = gadgetHorMenu.parents('.WaLayoutPlaceHolder'),
+			placeHolderId = placeHolder && placeHolder.attr('data-componentId'),
+			mobileState = false,
+			isTouchSupported = !!(('ontouchstart' in window) || (window.DocumentTouch && document instanceof DocumentTouch) || (navigator.msPointerEnabled && navigator.msMaxTouchPoints));
+
+
+		function resizeMenu()
+		{
+			var i,
+				len,
+				fitMenuWidth = 0,
+				menuItemPhantomWidth = 80;
+
+			firstLevelMenu.html(holderInitialMenu).removeClass('adapted').css({ width: 'auto' }); // restore initial menu
+
+			if (firstLevelMenu.width() > gadgetHorMenuContainer.width()) { // if menu oversize
+				menuItemPhantomWidth = firstLevelMenu.addClass('adapted').append(phantomElement).children('.phantom').width();
+
+				for (i = 0, len = holderInitialMenu.size(); i <= len; i++) {
+					fitMenuWidth += jq$(holderInitialMenu.get(i)).width();
+
+					if (fitMenuWidth + menuItemPhantomWidth > gadgetHorMenuContainer.width()) {
+						outsideItems = firstLevelMenu.children(':gt('+(i-1)+'):not(.phantom)').remove();
+						firstLevelMenu.find('.phantom > .item > ul').append( outsideItems);
+						gadgetHorMenuContainer.css('overflow','visible');
+						break;
+					}
+				}
+				gadgetHorMenu.find('.phantom > .item > a').click(function() { return false; });
+			}
+
+			disableFirstTouch();
+
+			firstLevelMenu.css('width', ''); // restore initial menu width
+			firstLevelMenu.children().removeClass('last-child').eq(-1).addClass('last-child'); // add last-child mark
+		}
+
+		jq$(window).resize(function() {
+			resizeMenu();
+		});
+
+		jq$(window).bind('mousewheel', function(event) {
+			if (event.originalEvent.wheelDelta >= 0) {
+				resizeMenu();
+			}
+		});
+
+		function onLayoutColumnResized(sender, args) {
+			args = args || {};
+
+			if (placeHolderId && (placeHolderId == args.leftColPlaceHolderId || placeHolderId == args.rightColPlaceHolderId)) {
+				resizeMenu();
+			}
+		}
+
+		function onSidebarResized() {
+			resizeMenu();
+		}
+
+		BonaPage.addPageStateHandler(BonaPage.PAGE_PARSED, function() { WA.Gadgets.LayoutColumnResized.addHandler(onLayoutColumnResized); });
+		BonaPage.addPageStateHandler(BonaPage.PAGE_UNLOADED, function() { WA.Gadgets.LayoutColumnResized.removeHandler(onLayoutColumnResized); });
+		BonaPage.addPageStateHandler(BonaPage.PAGE_PARSED, function() { WA.Gadgets.SidebarResized.addHandler(onSidebarResized); });
+		BonaPage.addPageStateHandler(BonaPage.PAGE_UNLOADED, function() { WA.Gadgets.SidebarResized.removeHandler(onSidebarResized); });
+
+        function disableFirstTouch()
+        {
+          if (!isTouchSupported) return;
+
+          jq$('#id_6NfRKGL').find('.menuInner li.dir > .item > a').on('click', function(event) {
+            if (!this.touchCounter)
+              this.touchCounter = 0;
+
+            if (this.touchCounter >= 1) {
+              this.touchCounter = 0;
+              return true;
+            }
+
+            this.touchCounter++;
+
+            if (!mobileState) {
+              WA.stopEventDefault(event);
+            }
+          });
+
+          jq$('#id_6NfRKGL').find('.menuInner li.dir > .item > a').on('mouseout', function(event) {
+            if (!this.touchCounter)
+              this.touchCounter = 0;
+            this.touchCounter = 0;
+          });
+        }
+
+        disableFirstTouch();
+
+	});
+</script></div></div>
+</div></div>
+		<div class="zonePlace zoneHeader3">
+<div id="id_Header2" data-componentId="Header2" class="WaPlaceHolder WaPlaceHolderHeader2" style="background-image:url(&#39;/resources/Site/ben-wicks-iDCtsz-INHI-unsplash.jpg&#39;);background-repeat:no-repeat;background-position:left center;background-size:cover;background-color:transparent;min-height:250px;"><div style="padding-top:10px;"></div>
+</div></div>
+		<!-- /header zone -->
+
+<!-- content zone -->
+	<div class="zonePlace zoneContent">
+<div id="id_Content" data-componentId="Content" class="WaPlaceHolder WaPlaceHolderContent" style="background-color:#802081;"><div style="padding-top:0px;padding-bottom:0px;"><div id="id_qVKhBFi" class="WaGadgetOnly WaGadgetMenuHorizontal  HorizontalMenuStyle002" style="" data-componentId="qVKhBFi" ><div class="">
+	<div class="menuBackground"></div>
+	<div class="menuInner">
+		<ul class="firstLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18144" title="Neurodiversity"><span>Neurodiversity</span></a>
+</div>
+</li>
+	
+<li class="sel ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/List-of-possible-Aspergers-people" title="Who has Aspergers?"><span>Who has Aspergers?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Communication-Tips" title="Communication Tips"><span>Communication Tips</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/page-18136" title="The Positives of Aspergers"><span>The Positives of Aspergers</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Sources-of-Aspergersinfo" title="Sources of Aspergers Information"><span>Sources of Aspergers Information</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://aspergersvic.org.au/Disclaimer" title="Disclaimer"><span>Disclaimer</span></a>
+</div>
+</li>
+	
+</ul>
+	</div>
+</div>
+
+<script type="text/javascript">
+	jq$(function() {
+		WebFont.load({
+			custom: {
+				families: ['Lato', 'Lato']
+			},
+			active: function(){
+				resizeMenu();
+			}
+		});
+
+		var gadgetHorMenu = jq$('#id_qVKhBFi'),
+			gadgetHorMenuContainer = gadgetHorMenu.find('.menuInner'),
+			firstLevelMenu = gadgetHorMenu.find('ul.firstLevel'),
+			holderInitialMenu = firstLevelMenu.children(),
+			outsideItems = null,
+			phantomElement = '<li class="phantom"><div class="item"><a href="#"><span>&#x2261;</span></a><ul class="secondLevel"></ul></div></li>',
+			placeHolder = gadgetHorMenu.parents('.WaLayoutPlaceHolder'),
+			placeHolderId = placeHolder && placeHolder.attr('data-componentId'),
+			mobileState = false,
+			isTouchSupported = !!(('ontouchstart' in window) || (window.DocumentTouch && document instanceof DocumentTouch) || (navigator.msPointerEnabled && navigator.msMaxTouchPoints));
+
+
+		function resizeMenu()
+		{
+			var i,
+				len,
+				fitMenuWidth = 0,
+				menuItemPhantomWidth = 80;
+
+			firstLevelMenu.html(holderInitialMenu).removeClass('adapted').css({ width: 'auto' }); // restore initial menu
+
+			if (firstLevelMenu.width() > gadgetHorMenuContainer.width()) { // if menu oversize
+				menuItemPhantomWidth = firstLevelMenu.addClass('adapted').append(phantomElement).children('.phantom').width();
+
+				for (i = 0, len = holderInitialMenu.size(); i <= len; i++) {
+					fitMenuWidth += jq$(holderInitialMenu.get(i)).width();
+
+					if (fitMenuWidth + menuItemPhantomWidth > gadgetHorMenuContainer.width()) {
+						outsideItems = firstLevelMenu.children(':gt('+(i-1)+'):not(.phantom)').remove();
+						firstLevelMenu.find('.phantom > .item > ul').append( outsideItems);
+						gadgetHorMenuContainer.css('overflow','visible');
+						break;
+					}
+				}
+				gadgetHorMenu.find('.phantom > .item > a').click(function() { return false; });
+			}
+
+			disableFirstTouch();
+
+			firstLevelMenu.css('width', ''); // restore initial menu width
+			firstLevelMenu.children().removeClass('last-child').eq(-1).addClass('last-child'); // add last-child mark
+		}
+
+		jq$(window).resize(function() {
+			resizeMenu();
+		});
+
+		jq$(window).bind('mousewheel', function(event) {
+			if (event.originalEvent.wheelDelta >= 0) {
+				resizeMenu();
+			}
+		});
+
+		function onLayoutColumnResized(sender, args) {
+			args = args || {};
+
+			if (placeHolderId && (placeHolderId == args.leftColPlaceHolderId || placeHolderId == args.rightColPlaceHolderId)) {
+				resizeMenu();
+			}
+		}
+
+		function onSidebarResized() {
+			resizeMenu();
+		}
+
+		BonaPage.addPageStateHandler(BonaPage.PAGE_PARSED, function() { WA.Gadgets.LayoutColumnResized.addHandler(onLayoutColumnResized); });
+		BonaPage.addPageStateHandler(BonaPage.PAGE_UNLOADED, function() { WA.Gadgets.LayoutColumnResized.removeHandler(onLayoutColumnResized); });
+		BonaPage.addPageStateHandler(BonaPage.PAGE_PARSED, function() { WA.Gadgets.SidebarResized.addHandler(onSidebarResized); });
+		BonaPage.addPageStateHandler(BonaPage.PAGE_UNLOADED, function() { WA.Gadgets.SidebarResized.removeHandler(onSidebarResized); });
+
+        function disableFirstTouch()
+        {
+          if (!isTouchSupported) return;
+
+          jq$('#id_qVKhBFi').find('.menuInner li.dir > .item > a').on('click', function(event) {
+            if (!this.touchCounter)
+              this.touchCounter = 0;
+
+            if (this.touchCounter >= 1) {
+              this.touchCounter = 0;
+              return true;
+            }
+
+            this.touchCounter++;
+
+            if (!mobileState) {
+              WA.stopEventDefault(event);
+            }
+          });
+
+          jq$('#id_qVKhBFi').find('.menuInner li.dir > .item > a').on('mouseout', function(event) {
+            if (!this.touchCounter)
+              this.touchCounter = 0;
+            this.touchCounter = 0;
+          });
+        }
+
+        disableFirstTouch();
+
+	});
+</script></div></div>
+</div></div>
+	<div class="zonePlace zoneContent">
+<div id="id_Content1" data-componentId="Content1" class="WaPlaceHolder WaPlaceHolderContent1" style="background-color:transparent;"><div style=""><div id="id_tot8ZaS" class="WaGadgetFirst WaGadgetHeadline  gadgetStyleNone" style="margin-bottom:10px;" data-componentId="tot8ZaS" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<h1>People you know who may have Aspergers MINDS</h1></div>
+</div><div id="id_bF8L5BN" class="WaGadget WaGadgetContent  gadgetStyleNone" style="margin-bottom:30px;" data-componentId="bF8L5BN" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<h2>Famous Aspie People mentioned or surmised to BE Aspergers AUTISTICS. Those with &#8216;C&#8217; are confirmed:</h2></div>
+</div><div id="id_HOqIVUD" class="WaGadget WaGadgetContent  gadgetStyleNone" style="" data-componentId="HOqIVUD" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p><strong>C=confirmed</strong></p></div>
+</div><div id="id_FA9gW2a" data-componentId="FA9gW2a" class="WaLayoutContainer" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="FA9gW2a_row" class="WaLayoutRow"><td id="id_CeE7iI4" data-componentId="CeE7iI4" class="WaLayoutItem" style="width:50%;"><div id="id_pE9aSJO" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="pE9aSJO" style=""><div style=""><div id="id_jnEC5qw" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="" data-componentId="jnEC5qw" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p><strong>Bill Gross </strong>- successful investment manager (C): his video about his diagnosis is <a href="https://www.bloomberg.com/news/videos/2019-03-01/bill-gross-on-his-asperger-s-diagnosis-and-its-advantages-video?fbclid=IwAR1H-gbsnDylCQB2hPCnkaQt15MQqS71DtsQMBU2O_jHjpUWqm3HUX_xlLE" target="_blank">here</a></p>
+
+<p><strong>Dan Aykroyd</strong> &#8211; Comedic Actor (C)</p>
+
+<p><strong>Hans Christian Andersen</strong> &#8211; Children&#8217;s Author</p>
+
+<p><strong>Benjamin Banneker</strong> &#8211; African American almanac author, surveyor, naturalist, and farmer</p>
+
+<p><strong>Susan Boyle</strong> &#8211; Singer (C)</p>
+
+<p><strong>Tim Burton</strong> &#8211; Movie Director (C)</p>
+
+<p><strong>David Campion - </strong>champion snowboarder</p><p><strong>Lewis Carroll </strong>&#8211; Author of &#8220;Alice in Wonderland&#8221;</p>
+
+<p><strong>Henry Cavendish</strong> &#8211; Scientist Charles Darwin &#8211; Naturalist, Geologist, and Biologist</p>
+
+<p><strong>Emily Dickinson</strong> &#8211; Poet</p>
+
+<p><strong>Paul Dirac</strong> &#8211; Physicist Albert Einstein &#8211; Scientist &amp; Mathematician</p>
+
+<p><strong>Bobby Fischer</strong> &#8211; Chess Grandmaster</p>
+
+<p><strong>Bill Gates</strong> &#8211; Co-founder of the Microsoft Corporation</p>
+
+<p><strong>Temple Grandin</strong> &#8211; Animal Scientist (C)</p>
+
+<p><strong>Daryl Hannah</strong> &#8211; Actress &amp; Environmental Activist (C)</p>
+
+<p><strong>Thomas Jefferson</strong> &#8211; Early American Politician</p>
+
+<p><strong>Steve Jobs</strong> &#8211; Former CEO of Apple</p>
+
+<p><strong>James Joyce</strong> &#8211; Author of &#8220;Ulysses&#8221;</p>
+
+<p><strong>Alfred Kinsey</strong> &#8211; Sexologist &amp; Biologist</p>
+
+<p><strong>Stanley Kubrick</strong> &#8211; Film Director</p>
+
+<p><strong>Barbara McClintock</strong> &#8211; Scientist and Cytogeneticist</p>
+
+<p><strong>Michelangelo</strong> &#8211; Sculptor, Painter, Architect, Poet</p>
+
+<p><strong>Chris Packham</strong> - naturalist, TV presenter (C)</p>
+
+<p><strong>Gary Numan</strong> - singer and songwriter</p>
+
+<p><strong>Michael Burry</strong> - USA physician, investor and hedge fund manager: Movie the Big Short based on him (C)</p>
+
+<p><strong>Dawn Prince-Hughes</strong> - PhD, primate anthropologist, ethologist, and author of Songs for the Gorilla Nation</p>
+
+<p><strong>Jerry Newport</strong> - American author and mathematical savant, basis of the film Mozart and the Whale</p>
+
+<p><strong>John Elder Robison</strong> - author of Look Me in the Eye</p>
+
+<p><strong>Judy Singer</strong> - Australian disability rights activist, sociologist who coined term neurodiversity</p><p><strong>Liane Holliday Willey </strong><span>-</span>&nbsp;author of Pretending to be Normal, Asperger Syndrome in the Family; Asperger syndrome advocate; education professor; and adult diagnosed with Asperger syndrome at age 35</p>
+
+<p><strong>Travis Meeks </strong><span>-</span>&nbsp;lead singer, guitarist and song writer for acoustic rock band Days of the New</p></div>
+</div></div></div></td><td style="width:40px;" data-componentId="CeE7iI4_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_MUfzHWD" data-componentId="MUfzHWD" class="WaLayoutItem" style="width:50%;"><div id="id_zOebpCx" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="zOebpCx" style=""><div style=""><div id="id_WfU2WET" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="" data-componentId="WfU2WET" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p><strong>Lizzy Clark </strong><span>-</span>&nbsp;actress and campaigner</p><p><strong>Wolfgang Amadeus Mozart</strong> &#8211; Classical Composer</p>
+
+<p><strong>Ulysse Delsaux &amp; Cody Ware -</strong>&nbsp;Racecar drivers (C)</p><p><strong>Sir Isaac Newton</strong> &#8211; Mathematician, Astronomer, &amp; Physicist</p>
+
+<p><strong>Carl Sagan - </strong>Astronomer (C)</p><p><strong>Jerry Seinfeld</strong> &#8211; Comedian</p>
+
+<p><strong>Satoshi Tajiri</strong> &#8211; Creator of Nintendo&#8217;s Pokémon (C)</p>
+
+<p><strong>Nikola Tesla</strong> &#8211; Inventor Andy Warhol &#8211; Artist</p>
+
+<p><strong>Ludwig Wittgenstein</strong> &#8211; Philosopher William Butler Yeats &#8211; Poet</p>
+
+<p><strong>Donna Williams</strong> - autism advocate, author, speaker, change maker and more (C)</p>
+
+<p><strong>Alix Generous</strong> - professional speaker, neuroscientist, author, artist, consultant, comedian, and media producer (C)</p>
+
+<p><strong>Carly Fulgham</strong> - technology project lead for national bank and is President of Autism Society of America Ventura (C)</p>
+
+<p><strong>Marie-Curie</strong> - scientist who pioneered research on radioactivity</p>
+
+<p><strong>Barbara McClintock</strong> &#8211; Scientist and Cytogeneticist</p>
+
+<p><strong>Francis Galton</strong> - scientist, mathematician and discovered fingerprints</p>
+
+<p><strong>Sir Isaac Newton</strong></p>
+
+<p><strong>Stephen Fry</strong> &#8211; actor (C)</p>
+
+<p><strong>Courtney Love</strong> - actor, musician&nbsp;and was the wife of Kurt Cobain (C)</p>
+
+<p><strong>James Durbin</strong> - musician</p>
+
+<p><strong>Paddy Considine</strong> - actor (C)</p>
+
+<p><strong>Clay Marzo</strong> - professional surfer (C)</p>
+
+<p><strong>Daniel Tammet</strong> - savant</p>
+
+<p><strong>Gary Numan</strong> - British singer and songwriter</p>
+
+<p><strong>Ashley Szarka</strong> - A nobody</p>
+
+<p><strong>Sir Anthony Hopkins</strong> &#8211; actor (C)</p>
+
+<p><strong>Barry Humphries</strong> &#8211; actor (C)</p>
+
+<p><strong>Alan Turing</strong> - father of modern computing, mathematician and logician, code breaker in WW2</p>
+
+<p><strong>Henry Ford</strong> - maker of Ford</p>
+
+<p><strong>Dan Harmon</strong> - Comedy fans will recognize Dan Harmon as the writer and creator of the hit show Community (C)</p>
+
+<p><strong>Heather Zumich</strong>- top model (C)</p>
+
+<p><strong>Dr. Vernon Smith&nbsp;</strong>-  Professor of Economics, Chapman University, practically invented the field of experimental economics &#8212; an achievement for which he won the Nobel Prize in 2002. Credits Aspergers for his success. (C)</p>
+
+<p><strong>Alexis Wineman</strong> - first Miss America and model (C)</p>
+
+<p><strong>Adam Young</strong> - the singer and songwriter behind Owl City, is a successful musician with Aspergers</p>
+
+<p> </p>
+<p><br></p></div>
+</div></div></div></td></tr></table> </div><div id="id_s31MhH7" class="WaGadget WaGadgetContent  gadgetStyleNone" style="" data-componentId="s31MhH7" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="WaContentDivider WaContentDivider divider_style_border_solid" style="border-top-width: 1px; border-color: rgb(230, 230, 230);" data-wacomponenttype="ContentDivider"></div>
+</div><div id="id_XjDmQ2p" class="WaGadgetLast WaGadgetContent  gadgetStyleNone" style="" data-componentId="XjDmQ2p" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p>For more details go to <a href="https://list25.com/25-famous-people-with-asperger-syndrome" target="_blank">25-famous-people-with-asperger-syndrome</a></p>
+
+<p>Sources: <a href="https://www.disabled-world.com" target="_blank">www.disabled-world.com</a> ; <a href="https://www.abadegreeprograms.net/successful-people-on-the-autism-spectrum" target="_blank">https://www.abadegreeprograms.net/successful-people-on-the-autism-spectrum</a></p>
+
+<p><a href="https://list25.com/25-famous-people-with-asperger-syndrome" target="_blank">https://list25.com/25-famous-people-with-asperger-syndrome</a></p><p><a href="https://blog.ongig.com/diversity-and-inclusion/famous-people-with-autism/" target="_blank">https://blog.ongig.com/diversity-and-inclusion/famous-people-with-autism/</a><br></p></div>
+</div></div>
+</div></div>
+	<div class="zonePlace zoneContent">
+</div>
+	<div class="zonePlace zoneContent">
+</div>
+	<div class="zonePlace zoneContent">
+</div>
+	<!-- /content zone -->
+
+<!-- footer zone -->
+		<div class="zonePlace zoneFooter1">
+<div id="id_Footer" data-componentId="Footer" class="WaPlaceHolder WaPlaceHolderFooter" style="background-color:#F9B24F;"><div style="padding-top:30px;padding-bottom:20px;"><div id="id_mTjdvxg" data-componentId="OKRfjz9" class="WaLayoutContainerOnly" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="mTjdvxg_row" class="WaLayoutRow"><td id="id_4fMt5qi" data-componentId="SQVVTH7" class="WaLayoutItem" style="width:15%;"><div id="id_qiVGmPX" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="qfYHW3I" style=""><div style=""><div id="id_k29FpRb" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="" data-componentId="MaxjlLw" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<img src="/resources/ACNC-Registered-Charity-Logo_RGB.png" alt="" title="" border="0" width="140" height="140"></div>
+</div></div></div></td><td style="" data-componentId="SQVVTH7_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_XTdGdZO" data-componentId="ljOGsjy" class="WaLayoutItem" style="width:59%;"><div id="id_GY2tSY2" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="pQKGYky" style=""><div style=""><div id="id_QjVi7UH" class="WaGadgetOnly WaGadgetContent call-to-action gadgetStyleNone" style="" data-componentId="FeCA1pJ" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<h4><font style="font-size: 20px;" color="#FFFFFF">We rely on donations and memberships to provide specialised support, advocate for change and fill the gap in the specific services our community needs.<br></font><font style="font-size: 20px;" color="#FFFFFF">Donate now and help us empower Aspergers. All donations are tax deductible.</font></h4></div>
+</div></div></div></td><td style="" data-componentId="ljOGsjy_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_krvJa9a" data-componentId="mR7wpjp" class="WaLayoutItem" style="width:25%;"><div id="id_ZWTEFnK" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="VohmxbK" style=""><div style="padding-top:10px;"><div id="id_8h4Bexo" class="WaGadgetOnly WaGadgetContent footer-button gadgetStyleNone" style="" data-componentId="6ofrKK7" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<a href="/Donate" class="stylizedButton buttonStyle003"><font style="font-size: 18px;">Donate Now</font></a></div>
+</div></div></div></td></tr></table> </div></div>
+</div></div>
+		<div class="zonePlace zoneFooter2">
+<div id="id_Footer1" data-componentId="Footer1" class="WaPlaceHolder WaPlaceHolderFooter1" style="background-image:url(&#39;/resources/logo-graphic.png&#39;);background-repeat:no-repeat;background-position:right center;background-color:#802081;"><div style="padding-top:30px;padding-bottom:30px;"><div id="id_neEmEl6" data-componentId="day2JNp" class="WaLayoutContainerOnly" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="neEmEl6_row" class="WaLayoutRow"><td id="id_3BkCBik" data-componentId="ETqtW5g" class="WaLayoutItem" style="width:25%;"><div id="id_UKyKSdR" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="KVs46M9" style=""><div style=""><div id="id_8laOGHg" class="WaGadgetFirst WaGadgetContent  gadgetStyleNone" style="margin-bottom:10px;" data-componentId="AQEqNYW" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p><img src="/resources/Pictures/av-footer-logo.png" alt="" title="" border="0" width="220" height="93"><br></p></div>
+</div><div id="id_dvXDkuF" class="WaGadgetLast WaGadgetSocialProfile  socialProfileStyle003" style="" data-componentId="GU7Delt" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<ul class="orientationHorizontal  alignLeft" >
+
+
+<li>
+				<a href="https://www.facebook.com/www.aspergersvic.org/" title="Facebook" class="Facebook" target="_blank"></a>
+			</li>
+<li>
+				<a href="https://twitter.com/aspergersvic?lang=en" title="Twitter" class="Twitter" target="_blank"></a>
+			</li>
+<li>
+				<a href="https://au.linkedin.com/company/aspergers-victoria" title="LinkedIn" class="LinkedIn" target="_blank"></a>
+			</li>
+		
+</ul>
+
+</div>
+</div></div></div></td><td style="width:20px;" data-componentId="ETqtW5g_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_pcTGI1e" data-componentId="zs8rztL" class="WaLayoutItem" style="width:25%;"><div id="id_5gISv5k" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="TuJNyma" style=""><div style=""><div id="id_dbeQWHk" class="WaGadgetFirst WaGadgetCustomMenu  menuStyle002" style="" data-componentId="WPuWIw8" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<ul class="orientationVertical alignLeft">
+
+<li>
+			<a href="/About-Aspergers" title="What is Aspergers?">What is Aspergers?</a>
+		</li>
+<li>
+			<a href="/who-we-are" title="Who is Aspergers Victoria?">Who is Aspergers Victoria?</a>
+		</li>
+</ul>
+
+</div>
+<script type="text/javascript">
+	jq$(function()
+	{
+		var customMenu = jq$('#id_dbeQWHk');
+
+		customMenu.find('ul.orientationHorizontal').parents('.WaGadgetCustomMenu').addClass('customMenuHorizontal');
+		customMenu.find('ul.orientationVertical').parents('.WaGadgetCustomMenu').addClass('customMenuVertical');
+
+		customMenu.find('ul.alignLeft').parents('.WaGadgetCustomMenu').addClass('customMenuAlignLeft');
+		customMenu.find('ul.alignCenter').parents('.WaGadgetCustomMenu').addClass('customMenuAlignCenter');
+		customMenu.find('ul.alignRight').parents('.WaGadgetCustomMenu').addClass('customMenuAlignRight');
+
+		customMenu.find('ul').wrap('<div class="outerContainer"></div>').before('<div class="toggleButton"></div>').wrap('<div class="container"></div>');
+
+		var customMenuWidth = jq$('ul', customMenu).width(),
+			customMenuHeight = jq$('ul', customMenu).height(),
+			transitionTime = 300,
+			animateOptionsToOpen,
+			animateOptionsToClose,
+			layoutType = ( customMenu.hasClass('customMenuHorizontal') ? 'horizontal' : 'vertical' ),
+			menuContainer = customMenu.find('.container');
+
+		customMenu.find('.toggleButton').toggle(function()
+		{
+			$(this).addClass('expandedState');
+			getSize();
+			setTypeAnimation();
+			menuContainer.animate( animateOptionsToOpen, transitionTime );
+		}, function()
+		{
+			$(this).removeClass('expandedState');
+			getSize();
+			setTypeAnimation();
+			menuContainer.animate( animateOptionsToClose, transitionTime );
+		});
+
+
+		function getSize()
+		{
+			customMenuWidth = jq$('ul', customMenu).width();
+			customMenuHeight = jq$('ul', customMenu).height();
+		}
+
+		function setTypeAnimation()
+		{
+			if( layoutType == 'horizontal' )
+			{
+				animateOptionsToOpen = { 'width': (customMenuWidth+'px') };
+				animateOptionsToClose = { 'width': '0' };
+			}
+
+			if( layoutType == 'vertical' )
+			{
+				animateOptionsToOpen = { 'height': (customMenuHeight+'px') };
+				animateOptionsToClose = { 'height': '0' };
+			}
+		}
+	});
+</script>
+
+
+
+
+
+</div><div id="id_nLT5Grk" class="WaGadgetLast WaGadgetContent  gadgetStyleNone" style="" data-componentId="fFUHL8B" ><div class="gadgetStyleBody gadgetContentEditableArea" style="padding-left:7px;" data-editableArea="0" data-areaHeight="auto">
+<p><font style="font-size: 14px;" color="#FAFAFA">ABN 47 066 180 983</font></p></div>
+</div></div></div></td><td style="width:20px;" data-componentId="zs8rztL_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_MS6XC5J" data-componentId="xdiZ3Kk" class="WaLayoutItem" style="width:25%;"><div id="id_DGocvBe" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="QstThGU" style=""><div style=""><div id="id_ls5LcIg" class="WaGadgetOnly WaGadgetCustomMenu  menuStyle002" style="" data-componentId="vYDoI8m" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<ul class="orientationVertical alignLeft">
+
+<li>
+			<a href="/Sys/Login" title="Members Login">Members Login</a>
+		</li>
+<li>
+			<a href="/join-us" title="Become a Member">Become a Member</a>
+		</li>
+<li>
+			<a href="/contact" title="Contact Us">Contact Us</a>
+		</li>
+<li>
+			<a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+		</li>
+</ul>
+
+</div>
+<script type="text/javascript">
+	jq$(function()
+	{
+		var customMenu = jq$('#id_ls5LcIg');
+
+		customMenu.find('ul.orientationHorizontal').parents('.WaGadgetCustomMenu').addClass('customMenuHorizontal');
+		customMenu.find('ul.orientationVertical').parents('.WaGadgetCustomMenu').addClass('customMenuVertical');
+
+		customMenu.find('ul.alignLeft').parents('.WaGadgetCustomMenu').addClass('customMenuAlignLeft');
+		customMenu.find('ul.alignCenter').parents('.WaGadgetCustomMenu').addClass('customMenuAlignCenter');
+		customMenu.find('ul.alignRight').parents('.WaGadgetCustomMenu').addClass('customMenuAlignRight');
+
+		customMenu.find('ul').wrap('<div class="outerContainer"></div>').before('<div class="toggleButton"></div>').wrap('<div class="container"></div>');
+
+		var customMenuWidth = jq$('ul', customMenu).width(),
+			customMenuHeight = jq$('ul', customMenu).height(),
+			transitionTime = 300,
+			animateOptionsToOpen,
+			animateOptionsToClose,
+			layoutType = ( customMenu.hasClass('customMenuHorizontal') ? 'horizontal' : 'vertical' ),
+			menuContainer = customMenu.find('.container');
+
+		customMenu.find('.toggleButton').toggle(function()
+		{
+			$(this).addClass('expandedState');
+			getSize();
+			setTypeAnimation();
+			menuContainer.animate( animateOptionsToOpen, transitionTime );
+		}, function()
+		{
+			$(this).removeClass('expandedState');
+			getSize();
+			setTypeAnimation();
+			menuContainer.animate( animateOptionsToClose, transitionTime );
+		});
+
+
+		function getSize()
+		{
+			customMenuWidth = jq$('ul', customMenu).width();
+			customMenuHeight = jq$('ul', customMenu).height();
+		}
+
+		function setTypeAnimation()
+		{
+			if( layoutType == 'horizontal' )
+			{
+				animateOptionsToOpen = { 'width': (customMenuWidth+'px') };
+				animateOptionsToClose = { 'width': '0' };
+			}
+
+			if( layoutType == 'vertical' )
+			{
+				animateOptionsToOpen = { 'height': (customMenuHeight+'px') };
+				animateOptionsToClose = { 'height': '0' };
+			}
+		}
+	});
+</script>
+
+
+
+
+
+</div></div></div></td><td style="width:20px;" data-componentId="xdiZ3Kk_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_cPEiHb4" data-componentId="Y76I9qZ" class="WaLayoutItem" style="width:25%;"><div id="id_OA2NJX7" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="6uPJVsM" style=""><div style=""><div id="id_OLwdEUc" class="WaGadgetOnly WaGadgetCustomMenu  menuStyle002" style="" data-componentId="OaR9MHn" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<ul class="orientationVertical alignLeft">
+
+<li>
+			<a href="/events-groups" title="Events">Events</a>
+		</li>
+<li>
+			<a href="/groups" title="Support Groups">Support Groups</a>
+		</li>
+<li>
+			<a href="/Employment" title="Employment Programs">Employment Programs</a>
+		</li>
+<li>
+			<a href="/get-help" title="Resources">Resources</a>
+		</li>
+</ul>
+
+</div>
+<script type="text/javascript">
+	jq$(function()
+	{
+		var customMenu = jq$('#id_OLwdEUc');
+
+		customMenu.find('ul.orientationHorizontal').parents('.WaGadgetCustomMenu').addClass('customMenuHorizontal');
+		customMenu.find('ul.orientationVertical').parents('.WaGadgetCustomMenu').addClass('customMenuVertical');
+
+		customMenu.find('ul.alignLeft').parents('.WaGadgetCustomMenu').addClass('customMenuAlignLeft');
+		customMenu.find('ul.alignCenter').parents('.WaGadgetCustomMenu').addClass('customMenuAlignCenter');
+		customMenu.find('ul.alignRight').parents('.WaGadgetCustomMenu').addClass('customMenuAlignRight');
+
+		customMenu.find('ul').wrap('<div class="outerContainer"></div>').before('<div class="toggleButton"></div>').wrap('<div class="container"></div>');
+
+		var customMenuWidth = jq$('ul', customMenu).width(),
+			customMenuHeight = jq$('ul', customMenu).height(),
+			transitionTime = 300,
+			animateOptionsToOpen,
+			animateOptionsToClose,
+			layoutType = ( customMenu.hasClass('customMenuHorizontal') ? 'horizontal' : 'vertical' ),
+			menuContainer = customMenu.find('.container');
+
+		customMenu.find('.toggleButton').toggle(function()
+		{
+			$(this).addClass('expandedState');
+			getSize();
+			setTypeAnimation();
+			menuContainer.animate( animateOptionsToOpen, transitionTime );
+		}, function()
+		{
+			$(this).removeClass('expandedState');
+			getSize();
+			setTypeAnimation();
+			menuContainer.animate( animateOptionsToClose, transitionTime );
+		});
+
+
+		function getSize()
+		{
+			customMenuWidth = jq$('ul', customMenu).width();
+			customMenuHeight = jq$('ul', customMenu).height();
+		}
+
+		function setTypeAnimation()
+		{
+			if( layoutType == 'horizontal' )
+			{
+				animateOptionsToOpen = { 'width': (customMenuWidth+'px') };
+				animateOptionsToClose = { 'width': '0' };
+			}
+
+			if( layoutType == 'vertical' )
+			{
+				animateOptionsToOpen = { 'height': (customMenuHeight+'px') };
+				animateOptionsToClose = { 'height': '0' };
+			}
+		}
+	});
+</script>
+
+
+
+
+
+</div></div></div></td></tr></table> </div></div>
+</div></div>
+		<div class="zonePlace zoneFooter3">
+<div id="id_Footer2" data-componentId="Footer2" class="WaPlaceHolder WaPlaceHolderFooter2" style="background-color:#3F3F3F;"><div style="padding-top:10px;padding-bottom:15px;"><div id="id_JnMUN4M" class="WaGadgetFirst WaGadgetContent  gadgetStyleNone" style="" data-componentId="xpzX9pN" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p align="center"><font color="#E6E6E6" style="font-size: 12px;">© 2019 Aspergers Victoria&nbsp; &nbsp;|&nbsp; &nbsp;Site by HighlandCreative.com.au</font></p></div>
+</div><div id="id_XyHhFX7" class="WaGadgetLast WaGadgetCustomHTML  gadgetStyleNone" style="" data-componentId="XyHhFX7" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<a href="#" id="scroll" style="display: none;"><span></span></a></div>
+</div></div>
+</div></div>
+
+<div class="zonePlace zoneWAbranding">
+				<div class="WABranding">
+<div id="idFooterPoweredByContainer">
+	<span id="idFooterPoweredByWA">
+Powered by <a href="http://www.wildapricot.com" target="_blank">Wild Apricot</a> Membership Software</span>
+</div>
+</div>
+			</div>
+
+<!-- /footer zone -->
+
+<div id="idCustomJsContainer" class="cnCustomJsContainer">
+<!-- Google Tag Manager -->
+<script>
+try
+{
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PPC9759');
+}
+catch(err)
+{}</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117760428-1">
+try
+{
+    
+}
+catch(err)
+{}</script>
+<script>
+try
+{
+    
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117760428-1');
+
+}
+catch(err)
+{}</script>
+
+
+
+
+<!--MailChimp script-->
+<script id="mcjs">
+try
+{
+    !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/bb02d80cae3cf1290e6e92aa2/2b33c90d734524a0324c6851c.js");
+}
+catch(err)
+{}</script>
+
+
+<! WildApricot script to ‘turn off’ menu items>
+<script type="text/javascript">
+try
+{
+    
+    function removeLinks(links) {
+        if (!arguments[0]) return;
+        var a = arguments[0];
+        jq$(".WaGadgetMenuHorizontal a, .WaGadgetMenuVertical a").each(function() {
+            var curhref=jq$(this).attr('href').split("/")[3];
+            if (
+                (typeof(a)=='string' && a==curhref)||
+                (typeof(a)=='object' && (jq$.inArray(curhref, a)>-1))
+            ) { 
+                jq$(this).attr("href", "javascript:void(0);").css("cursor", "pointer"); 
+            }
+        });
+    }
+    removeLinks("members");
+    removeLinks("Info");
+   
+
+}
+catch(err)
+{}</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+try
+{
+    
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '382140428904467');
+  fbq('track', 'PageView');
+
+}
+catch(err)
+{}</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=382140428904467&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4108771.js">
+try
+{
+    
+}
+catch(err)
+{}</script>
+<!-- End of HubSpot Embed Code -->
+
+<!-- Global site tag (gtag.js) - Google Analytics for www.aspergersvictoriainc.wildapricot.org-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110564227-1">
+try
+{
+    
+}
+catch(err)
+{}</script>
+<script>
+try
+{
+    
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110564227-1');
+
+}
+catch(err)
+{}</script>
+
+<script>
+try
+{
+    
+$(document).ready(function(){ 
+    $(window).scroll(function(){ 
+        if ($(this).scrollTop() > 100) { 
+            $('#scroll').fadeIn(); 
+        } else { 
+            $('#scroll').fadeOut(); 
+        } 
+    }); 
+    $('#scroll').click(function(){ 
+        $("html, body").animate({ scrollTop: 0 }, 600); 
+        return false; 
+    }); 
+});
+
+}
+catch(err)
+{}</script></div>
+
+</div></body>
+</html>
+<script type="text/javascript">if (window.BonaPage && BonaPage.setPageState) { BonaPage.setPageState(BonaPage.PAGE_PARSED); }</script>

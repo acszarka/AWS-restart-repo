@@ -1,0 +1,8 @@
+
+
+			username	password
+kali			cybersec	cybersec
+windows10	RDP app	cybersec	cybersec
+windows2003	RDP app	administrator	cybersec
+server2012	RDP app	administrator	cybersec
+webserver	RDP app	administrator	cybersec
